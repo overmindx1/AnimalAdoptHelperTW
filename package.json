@@ -1,0 +1,25 @@
+{
+  "name": "animal-adopt-helper",
+  "version": "1.0.0",
+  "description": "浪浪領養資訊小幫手",
+  "author": "overmindx",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "lodash": "^4.17.15",
+    "material-icons": "^0.3.1",
+    "nuxt": "^2.0.0",
+    "vuesax": "3.8.61"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "scss-loader": "^0.0.1"
+  }
+}
